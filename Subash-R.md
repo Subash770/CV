@@ -1,107 +1,104 @@
 # **SUBASH R**  
-*Software Engineer*  
+*Software Engineer | Java Developer*  
 
 📧 **Email**: ssubash2651@gmail.com  
 📱 **Phone**: +91 7339055731  
-📍 **Location**: Villupuram, TamilNadu, IN  
-🌐 **GitHub**: [subash770](https://github.com/Subash770) | **Portfolio**: [Subash](#)
+📍 **Location**: Villupuram, Tamil Nadu, India  
+🌐 **GitHub**: [subash770](https://github.com/Subash770) | **LinkedIn**: [Subash R](https://www.linkedin.com/in/subash-r770/)  
 
 ---
 
 ## **EXPERIENCE**  
 
-### **Software Engineer Trainee**  
+### **Software Developer Trainee**  
 **Revature**  
 📍 Chennai, India  
-🗓️ September - November 2024  
-- Technology: Java, Spring Boot, Hibernate, SQL, Docker, Jenkins.  
+🗓️ September 2024 - November 2024  
+- Developed a scalable e-commerce microservice application using Spring Boot, Spring Data, and Spring Web.  
+- Implemented seamless inter-service communication through REST APIs for efficient data exchange.  
+- Integrated secure payment gateways to enhance transaction safety and user trust.  
 
-### **Technical Content Writer Intern**  
+### **Technical Content Writer**  
 **GeeksforGeeks**  
 📍 Remote  
 🗓️ March 2024 - May 2024  
-- Category Lead of SDET and System Design.  
-- Created course page and batch page for the R Systems Project.  
-- Worked as a POC for iOS, UI/UX, and Testing.  
-- Worked on the Alison Project for publishing courses.  
+- Authored articles and tutorials on programming concepts, algorithms, and frameworks.  
+- Simplified complex topics with practical code examples for beginner and advanced audiences.  
 
-### **Teaching Assistant Intern**  
-**GeeksforGeeks**  
-📍 Noida, India  
-🗓️ Sep 2023 - Feb 2024  
-- Resolved more than 1,000 doubts on the Doubt Support Portal.  
-- Reviewed & corrected bugs in courses related to videos, articles, and quizzes.  
-- Conducted live sessions on Data Structures and Algorithms as a mentor.  
-- Increased user engagement in the GeeksforGeeks Community through interactive content.  
-
----
-
-## **PROJECTS**  
-
-### **Keeper | Web App**  
-🔗 [Live](#) | [GitHub](#)  
-🗓️ Sep 2022 - Sep 2022  
-- **Tech Stack**: React.js, Node.js, Express.js, MongoDB.  
-- Developed a full-stack project using the MERN stack where users can create useful notes.  
-- Learned CRUD operations.  
-
-### **Newsletter | Web App**  
-🔗 [Live](#) | [GitHub](#)  
-🗓️ Aug 2022 - Aug 2022  
-- **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js, EJS, Postman.  
-- Built a web app that stores user credentials using Mailchimp API.  
-- Learned OAuth and Application Programming Interfaces.  
+### **Front-End Developer Intern**  
+**HYSAS Technologies**  
+📍 Chennai, India  
+🗓️ March 2024 - May 2024  
+- Designed the Falcon Drone Delivery App and created functional, user-friendly website designs.  
+- Built responsive websites with JavaScript and Bootstrap, ensuring optimal user experience.  
 
 ---
 
 ## **EDUCATION**  
 
-### **Institute of Engineering and Science IPS Academy, Indore**  
-**B.Tech in Electrical and Electronics Engineering**  
-🗓️ 2019 - 2023 | CGPA: 8.64/10  
-
-### **Indraprastha International School, Muzaffarpur**  
-**Class XII (CBSE)**  
-🗓️ 2017 - 2019 | Percentage: 69.3/100  
-
-### **DAV Public School MTPS Kanti, Muzaffarpur**  
-**Class X (CBSE)**  
-🗓️ 2016 - 2017 | CGPA: 10/10  
+### **B.E in Electronics and Communication Engineering**  
+**IFET College of Engineering**  
+📍 Villupuram, India  
+🗓️ November 2020 - April 2024  
+- Developed innovative projects like a Bio-inspired Octobot for child rescue and Traffic Sign Recognition for autonomous vehicles.  
 
 ---
 
 ## **SKILLS**  
 
-- **Programming Languages**: C++, Java, Python  
-- **Frontend Development**: HTML, CSS, JavaScript, ReactJS  
-- **Backend Development**: NodeJS  
+- **Programming Languages**: Java, C, Python  
+- **Web Development**: HTML, CSS, JavaScript,   
+- **Backend Development**: RESTful APIs  ,SpringBoot(Java)
+- **Frameworks**: Spring Boot, Hibernate  
+- **Tools**: Docker, Jenkins, Git, Postman  
 - **Database**: SQL, MongoDB  
-- **Core**: Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems  
-- **Frameworks & Libraries**: ExpressJS, Bootstrap, Tailwind CSS, jQuery, Firebase  
-- **Tools**: Git, GitHub, VS Code, Postman, Studio 3T  
-- **Other**: Machine Learning  
+- **Core Concepts**: Data Structures, Algorithms, OOPs, Agile Methodologies  
+- **Certifications**:  
+  - Java Full Stack (Wipro)  
+  - Introduction to Networks (CCNA)  
+  - Cybersecurity Essentials (CCNA)  
+
+---
+
+## **PROJECTS**  
+
+### **E-Commerce Microservices Application**  
+🔗 [GitHub](https://github.com/Subash770/Ecom-Project-MicroService.git)  
+🗓️ September 2024 - November 2024  
+- **Tech Stack**: Spring Boot, Spring Data, Spring Web, Docker, SQL.  
+- Designed a scalable microservices-based e-commerce application with modular architecture.  
+- Integrated secure payment systems and implemented seamless communication between services using REST APIs.  
+
+### **Falcon Drone Delivery Application**  
+🔗 [GitHub](https://github.com/Subash770)  
+🗓️ March 2024 - May 2024  
+- **Tech Stack**: JavaScript, Bootstrap, HTML, CSS.  
+- Developed a user-friendly web application for managing drone delivery services.  
+- Designed responsive and functional user interfaces optimized for cross-platform use.  
+
+### **Bio-Inspired Octobot for Child Rescue**  
+🗓️ November 2020 - April 2024  
+- **Tech Stack**: Embedded Systems, Machine Learning.  
+- Engineered an autonomous bot capable of detecting and rescuing children in hazardous environments.  
+
+### **Traffic Sign Recognition for Autonomous Vehicles**  
+🗓️ November 2020 - April 2024  
+- **Tech Stack**: Python, OpenCV, Machine Learning.  
+- Designed a traffic sign recognition system using computer vision to assist autonomous vehicle navigation.  
 
 ---
 
 ## **ACHIEVEMENTS**  
 
-- **Knight**, 3.5 Star at LeetCode (Max Rating: 1914, Top 4.64%).  
-- Solved over **2,500+ DSA Problems** across different platforms.  
-- Solved **1,300+ DSA Problems** on LeetCode (Medium: 750+, Hard: 170+).  
-- Solved **1,000+ DSA Problems** on GeeksforGeeks (Medium: 500+, Hard: 100+).  
-- Ranked **3rd in the Institute** on GeeksforGeeks.  
-- Solved **300+ DSA Problems** on Coding Ninjas (Expert Level 7).  
-- **2 Star** at CodeChef (Max Rating: 1523).  
-- **AIR 748** out of 90k participants in Innovate India Coding Championship (IICC).  
-- Open Source Contributor at **Hacktoberfest 2022**.  
-- Ranked **23 in GSSoC 2023** (100 PRs merged, 1845 score).  
-- Winner at **SWOC 2023** (Devfolio Project).  
+- **Dr. Kalam Young Achiever Award**, recognized for innovation and technical excellence.  
+- **Best Student Award**, ISTE Annual Meet for academic and extracurricular excellence.  
+- **Project Contest Winner**, ISRO (WSW) for innovative project contributions.  
+- **IEEE Madras SPF Finalist**, showcasing technical expertise and problem-solving capabilities.  
 
 ---
 
 ## **CODING PROFILES**  
 
-- **LeetCode**: [sumitkrrai](https://leetcode.com/sumitkrrai)  
-- **GeeksforGeeks**: [sumitkrkanti](https://auth.geeksforgeeks.org/user/sumitkrkanti/profile)  
-- **CodeChef**: [sumitkr2000](https://www.codechef.com/users/sumitkr2000)  
-- **Coding Ninjas**: [sumit1999](#)  
+- **LeetCode**: [ssubash2651](https://leetcode.com/u/ssubash2651/)  
+- **GeeksforGeeks**: [Subash R](https://auth.geeksforgeeks.org/user/ssubash2651/profile)  
+- **GitHub**: [Subash770](https://github.com/Subash770)  
